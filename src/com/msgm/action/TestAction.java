@@ -6,4 +6,5 @@ public class TestAction {
 	private String Lee1;
 	private String Lee2;
 	private String Lee3;
+	private String Lee4;
 }
